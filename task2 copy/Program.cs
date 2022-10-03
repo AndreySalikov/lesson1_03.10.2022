@@ -9,3 +9,7 @@ if(day < 1 || day > 7)
 {
     Console.WriteLine("Такого дня недели не существует!");
 }
+else
+{
+    Console.WriteLine(days [day -1]);
+}
