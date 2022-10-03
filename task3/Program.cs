@@ -5,8 +5,8 @@
 
 Console.Write("Введите число:");
 int n = Convert.ToInt32(Console.ReadLine());
-int f = 0;
-int x = 0;
+int f = 1;
+int x = 1;
 while (f == n); f++;
 {
     x = x + n * f;   
@@ -54,3 +54,12 @@ static int Fibonachi2(int n)
  
     return result;
 }
+
+int ni = 5;  // количество циклов в факториале
+int factorial = 1;   // значение факториала
+
+for (int i = 2; i <= ni; i++) // цикл начинаем с 2, т.к. нет смысла начинать с 1
+{
+     factorial = factorial * i;
+}
+Console.WriteLine($" {factorial}");
