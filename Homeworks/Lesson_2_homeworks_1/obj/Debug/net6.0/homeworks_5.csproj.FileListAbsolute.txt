@@ -1,0 +1,16 @@
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\obj\Debug\net6.0\homeworks_5.GlobalUsings.g.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\obj\Debug\net6.0\homeworks_5.csproj.AssemblyReference.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\obj\Debug\net6.0\homeworks_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\obj\Debug\net6.0\homeworks_5.AssemblyInfoInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\obj\Debug\net6.0\homeworks_5.AssemblyInfo.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\obj\Debug\net6.0\homeworks_5.csproj.CoreCompileInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\bin\Debug\net6.0\homeworks_5.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\bin\Debug\net6.0\homeworks_5.deps.json
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\bin\Debug\net6.0\homeworks_5.runtimeconfig.json
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\bin\Debug\net6.0\homeworks_5.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\bin\Debug\net6.0\ref\homeworks_5.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\bin\Debug\net6.0\homeworks_5.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\obj\Debug\net6.0\homeworks_5.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\obj\Debug\net6.0\ref\homeworks_5.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\obj\Debug\net6.0\homeworks_5.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_2_homeworks_1\obj\Debug\net6.0\homeworks_5.genruntimeconfig.cache

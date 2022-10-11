@@ -16,3 +16,4 @@ else
 {
     System.Console.WriteLine($"max = {b}, min = {a}");
 }
+

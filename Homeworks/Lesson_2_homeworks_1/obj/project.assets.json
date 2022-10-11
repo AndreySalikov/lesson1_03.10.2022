@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\lesson1\\homeworks_5\\homeworks_5.csproj",
+      "projectUniqueName": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Seminars\\Homeworks\\Lesson_2_homeworks_1\\homeworks_5.csproj",
       "projectName": "homeworks_5",
-      "projectPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\lesson1\\homeworks_5\\homeworks_5.csproj",
+      "projectPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Seminars\\Homeworks\\Lesson_2_homeworks_1\\homeworks_5.csproj",
       "packagesPath": "C:\\Users\\borzs\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\lesson1\\homeworks_5\\obj\\",
+      "outputPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Seminars\\Homeworks\\Lesson_2_homeworks_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

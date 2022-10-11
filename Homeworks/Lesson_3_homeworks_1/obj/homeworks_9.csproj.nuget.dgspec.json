@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\lesson1\\homeworks_9\\homeworks_9.csproj": {}
+    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Seminars\\Homeworks\\Lesson_3_homeworks_1\\homeworks_9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\lesson1\\homeworks_9\\homeworks_9.csproj": {
+    "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Seminars\\Homeworks\\Lesson_3_homeworks_1\\homeworks_9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\lesson1\\homeworks_9\\homeworks_9.csproj",
+        "projectUniqueName": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Seminars\\Homeworks\\Lesson_3_homeworks_1\\homeworks_9.csproj",
         "projectName": "homeworks_9",
-        "projectPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\lesson1\\homeworks_9\\homeworks_9.csproj",
+        "projectPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Seminars\\Homeworks\\Lesson_3_homeworks_1\\homeworks_9.csproj",
         "packagesPath": "C:\\Users\\borzs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\lesson1\\homeworks_9\\obj\\",
+        "outputPath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Seminars\\Homeworks\\Lesson_3_homeworks_1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
