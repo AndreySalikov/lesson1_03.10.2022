@@ -25,6 +25,17 @@ int Promt(string message)
     return number;
 }
 
+void PrintArray(int[] collection)
+{
+    int length = collection.Length;
+    int index = 0;
+    while (index < length)
+    {
+        System.Console.Write(collection[index] + ", ");
+        index++;
+    }
+}
+
 bool ValidationNumber (int number)
 {
     if (number < 100)

@@ -6,3 +6,18 @@
 // 5 -> 1, 8, 27, 64, 125
 // 3 -> 1, 8, 27 
 // 5 -> 1, 8, 27, 64, 125
+
+Console.Clear();
+
+int Prompt(string message)
+{
+    Console.Write(message);
+    int number = Convert.ToInt32(Console.ReadLine());
+    return number;
+}
+
+int N = Prompt("Enter number: ");
+for(int i = 1; i <= N; i++)
+{
+    System.Console.WriteLine(Math.Pow(i,3)); // возведение в степень
+}
