@@ -16,8 +16,18 @@ int Prompt(string message)
     return number;
 }
 
-int N = Prompt("Enter number: ");
-for(int i = 1; i <= N; i++)
+void ShowCubes(int number)
 {
-    System.Console.WriteLine(Math.Pow(i,3)); // возведение в степень
+    for(int i = 1; i <= number; i++)
+    {
+        System.Console.WriteLine(i * i * i); // возведение в степень
+    }
 }
+
+int number = Prompt("Enter number: ");
+ShowCubes(number);
+
+// for(int i = 1; i <= N; i++)
+// {
+//     System.Console.WriteLine(Math.Pow(i,3)); // возведение в степень
+// }

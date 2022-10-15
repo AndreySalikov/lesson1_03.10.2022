@@ -57,6 +57,16 @@ double Power2(int arg)
     return Math.Pow(arg, 2); // <- Math.Pow() возведение в степень
 }
 
+double CalcLength(int [] point1, int [] point2)
+{
+    double sumSquare = 0;
+    for(int i = 0; i < point1.Length; i++)
+    {
+        sumSquare += Power2(point1 [i] - point2 [i]);
+    }
+    return Math.Sqrt(sumSquare); // <- Math.Sqrt() команда квадратный корень
+}
+
 int[] p1 = InputPoint(1);
 int[] p2 = InputPoint(2);
 
@@ -65,7 +75,7 @@ System.Console.WriteLine();
 PrintArray(p2);
 System.Console.WriteLine();
 
-double lenght = Math.Sqrt(Power2(p2[X] - p1[X]) + Power2(p2[Y] - p1[Y]) + Power2(p2[Z] - p1[Z])); // <- Math.Sqrt() команда квадратный корень
+double lenght = CalcLength(p1, p2);
 System.Console.WriteLine($"{lenght:f2}"); // :f.. кол-во символов после запятой
 // A (3,6,8); B (2,1,-7), -> 15.84
 // A (7,-5, 0); B (1,-1,9) -> 11.53
