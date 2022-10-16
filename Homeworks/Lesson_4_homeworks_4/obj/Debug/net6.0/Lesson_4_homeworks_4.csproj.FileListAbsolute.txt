@@ -1,0 +1,16 @@
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\bin\Debug\net6.0\Lesson_4_homeworks_4.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\bin\Debug\net6.0\Lesson_4_homeworks_4.deps.json
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\bin\Debug\net6.0\Lesson_4_homeworks_4.runtimeconfig.json
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\bin\Debug\net6.0\Lesson_4_homeworks_4.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\bin\Debug\net6.0\ref\Lesson_4_homeworks_4.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\bin\Debug\net6.0\Lesson_4_homeworks_4.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\obj\Debug\net6.0\Lesson_4_homeworks_4.GlobalUsings.g.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\obj\Debug\net6.0\Lesson_4_homeworks_4.csproj.AssemblyReference.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\obj\Debug\net6.0\Lesson_4_homeworks_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\obj\Debug\net6.0\Lesson_4_homeworks_4.AssemblyInfoInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\obj\Debug\net6.0\Lesson_4_homeworks_4.AssemblyInfo.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\obj\Debug\net6.0\Lesson_4_homeworks_4.csproj.CoreCompileInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\obj\Debug\net6.0\Lesson_4_homeworks_4.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\obj\Debug\net6.0\ref\Lesson_4_homeworks_4.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\obj\Debug\net6.0\Lesson_4_homeworks_4.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_4_homeworks_4\obj\Debug\net6.0\Lesson_4_homeworks_4.genruntimeconfig.cache
