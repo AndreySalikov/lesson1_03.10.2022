@@ -1,0 +1,15 @@
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\bin\Debug\net7.0\Lesson_6_homeworks_3.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\bin\Debug\net7.0\Lesson_6_homeworks_3.deps.json
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\bin\Debug\net7.0\Lesson_6_homeworks_3.runtimeconfig.json
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\bin\Debug\net7.0\Lesson_6_homeworks_3.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\bin\Debug\net7.0\Lesson_6_homeworks_3.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\obj\Debug\net7.0\Lesson_6_homeworks_3.csproj.AssemblyReference.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\obj\Debug\net7.0\Lesson_6_homeworks_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\obj\Debug\net7.0\Lesson_6_homeworks_3.AssemblyInfoInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\obj\Debug\net7.0\Lesson_6_homeworks_3.AssemblyInfo.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\obj\Debug\net7.0\Lesson_6_homeworks_3.csproj.CoreCompileInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\obj\Debug\net7.0\Lesson_6_homeworks_3.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\obj\Debug\net7.0\refint\Lesson_6_homeworks_3.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\obj\Debug\net7.0\Lesson_6_homeworks_3.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\obj\Debug\net7.0\Lesson_6_homeworks_3.genruntimeconfig.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_6\Lesson_6_homeworks_3\obj\Debug\net7.0\ref\Lesson_6_homeworks_3.dll
