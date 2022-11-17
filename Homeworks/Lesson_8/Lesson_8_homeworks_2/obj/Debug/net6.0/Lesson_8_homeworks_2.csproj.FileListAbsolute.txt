@@ -1,0 +1,16 @@
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\bin\Debug\net6.0\Lesson_8_homeworks_2.exe
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\bin\Debug\net6.0\Lesson_8_homeworks_2.deps.json
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\bin\Debug\net6.0\Lesson_8_homeworks_2.runtimeconfig.json
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\bin\Debug\net6.0\Lesson_8_homeworks_2.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\bin\Debug\net6.0\ref\Lesson_8_homeworks_2.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\bin\Debug\net6.0\Lesson_8_homeworks_2.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\obj\Debug\net6.0\Lesson_8_homeworks_2.GlobalUsings.g.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\obj\Debug\net6.0\Lesson_8_homeworks_2.csproj.AssemblyReference.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\obj\Debug\net6.0\Lesson_8_homeworks_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\obj\Debug\net6.0\Lesson_8_homeworks_2.AssemblyInfoInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\obj\Debug\net6.0\Lesson_8_homeworks_2.AssemblyInfo.cs
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\obj\Debug\net6.0\Lesson_8_homeworks_2.csproj.CoreCompileInputs.cache
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\obj\Debug\net6.0\Lesson_8_homeworks_2.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\obj\Debug\net6.0\ref\Lesson_8_homeworks_2.dll
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\obj\Debug\net6.0\Lesson_8_homeworks_2.pdb
+C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Homeworks\Lesson_8\Lesson_8_homeworks_2\obj\Debug\net6.0\Lesson_8_homeworks_2.genruntimeconfig.cache
