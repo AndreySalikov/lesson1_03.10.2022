@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yHdbAqMSMUYb9QGXsXdFE4X/VbLsvLqF4ueBq7PN3IGmJ73nj6SMRf1U9Ks43XRy01yOLwEcyF0u9DsjIACGxA==",
+  "dgSpecHash": "687YEDVYKldCo1MoZ8VKBs3Rf4xHsyZfZ4LZMwPoB8t9EP5Gv1/Ty7SIYMqOCiW12gyimwQbh9hn9BJGtL5sgw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\borzs\\OneDrive\\Рабочий стол\\Seminars\\Tasks\\Part_9\\Task_7\\Task_7.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\YandexDisk\\education\\Программирование на C#\\Seminars\\Tasks\\Part_9\\Task_7\\Task_7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\borzs\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\borzs\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\borzs\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\borzs\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\6.0.11\\microsoft.netcore.app.host.win-x86.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

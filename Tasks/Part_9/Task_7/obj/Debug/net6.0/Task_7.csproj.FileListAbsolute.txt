@@ -14,3 +14,18 @@ C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Tasks\Part_9\Task_7\obj
 C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\ref\Task_7.dll
 C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\Task_7.pdb
 C:\Users\borzs\OneDrive\Рабочий стол\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\Task_7.genruntimeconfig.cache
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\bin\Debug\net6.0\Task_7.exe
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\bin\Debug\net6.0\Task_7.deps.json
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\bin\Debug\net6.0\Task_7.runtimeconfig.json
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\bin\Debug\net6.0\Task_7.dll
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\bin\Debug\net6.0\Task_7.pdb
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\Task_7.csproj.AssemblyReference.cache
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\Task_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\Task_7.AssemblyInfoInputs.cache
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\Task_7.AssemblyInfo.cs
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\Task_7.csproj.CoreCompileInputs.cache
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\Task_7.dll
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\refint\Task_7.dll
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\Task_7.pdb
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\Task_7.genruntimeconfig.cache
+D:\YandexDisk\education\Программирование на C#\Seminars\Tasks\Part_9\Task_7\obj\Debug\net6.0\ref\Task_7.dll
